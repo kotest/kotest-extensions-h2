@@ -1,6 +1,6 @@
 [versions]
 kotlin = "1.6.21"
-kotest = "4.6.4"
+kotest = "5.3.0"
 h2 = "2.1.212"
 
 [libraries]
