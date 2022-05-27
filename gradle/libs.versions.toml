@@ -1,5 +1,5 @@
 [versions]
-kotlin = "1.4.31"
+kotlin = "1.6.21"
 kotest = "4.6.4"
 h2 = "2.1.212"
 
